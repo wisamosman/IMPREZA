@@ -27,8 +27,18 @@
 }
 .a5{
 text-decoration: none;
+color: white;
+padding: 14px 30px;
+    border-radius: 35px;
+    background-color: #E95095;
+    font-weight: 600;
 }
 .a6{
-    margin-left: 125px;
+    margin-left: 10px;
     text-decoration: none;
+    color: black;
+    padding: 14px 30px;
+    border-radius: 35px;
+    font-weight: 500;
+    background-color: #E8E8E8;
 }
