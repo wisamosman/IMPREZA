@@ -69,8 +69,8 @@ padding: 14px 30px;
     font-weight: 900;
     font-size: 50px;
 }
-.img-fluid{
-    width: 210px;
+.e1{
+    width: 100%;
     padding-top: 25px;
 }
 .w1{
@@ -84,4 +84,8 @@ padding: 14px 30px;
 .w3{
     background-color: white;
     padding-bottom: 85px;
+}
+.r1{
+    font-size: 50px;
+    font-weight: 900;
 }
