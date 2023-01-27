@@ -65,3 +65,23 @@ padding: 14px 30px;
     padding-top: 32px;
     padding-bottom: 55px;
 }
+.b4{
+    font-weight: 900;
+    font-size: 50px;
+}
+.img-fluid{
+    width: 210px;
+    padding-top: 25px;
+}
+.w1{
+    background-color: white;
+    padding-bottom: 71px;
+}
+.w2{
+    background-color: white;
+    padding-bottom: 22px;
+}
+.w3{
+    background-color: white;
+    padding-bottom: 85px;
+}
